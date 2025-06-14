@@ -3,16 +3,6 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://codeberg.org/641421309/IPV4/raw/branch/main/IPTV4.m3u
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
-http://39.134.61.206/TVOD/88888888/224/3221226415/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央视频道",CCTV2 财经
-http://39.134.61.206/TVOD/88888888/224/3221226417/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="央视频道",CCTV3 综艺
-http://39.134.61.206/TVOD/88888888/224/3221226898/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://codeberg.org/641421309/V6/raw/branch/main/%E8%BE%BD%E5%AE%81%E7%A7%BB%E5%8A%A8ipv6.txt
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226746/index.m3u8
@@ -50,10 +40,6 @@ http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226498/index.m3u8
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226773/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226567/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="凤凰卫视" tvg-logo="https://epg.iill.top/logo/凤凰卫视台.png" group-title="卫视频道",凤凰卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="36" tvg-name="凤凰资讯" tvg-logo="https://epg.iill.top/logo/凤凰资讯台.png" group-title="卫视频道",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
