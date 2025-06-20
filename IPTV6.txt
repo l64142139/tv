@@ -40,6 +40,10 @@ http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226498/index.m3u8
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226773/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226567/index.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://epg.v1.mk/logo/凤凰卫视.png" group-title="卫视频道",凤凰卫视
+https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
