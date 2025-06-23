@@ -40,6 +40,18 @@ http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226498/index.m3u8
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226773/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226567/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
+https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
+http://bx.757888.xyz/api.php?id=fhzw
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
+https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
+http://bx.757888.xyz/api.php?id=fhzx
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
+https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
+tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
+http://bx.757888.xyz/api.php?id=fhhk
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -122,55 +134,3 @@ http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226512/index.m3u8
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226593/index.m3u8
 #EXTINF:-1 tvg-id="6007" tvg-name="移动电视" tvg-logo="https://epg.v1.mk/logo/移动电视.png" group-title="辽宁频道",移动电视
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226717/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰中文.png" group-title="港澳台",鳳凰衛視中文台
-https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰中文.png" group-title="港澳台",鳳凰衛視中文台
-http://bx.757888.xyz/api.php?id=fhzw
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰资讯.png" group-title="港澳台",鳳凰衛視資訊台
-https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰资讯.png" group-title="港澳台",鳳凰衛視資訊台
-http://bx.757888.xyz/api.php?id=fhzx
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰香港.png" group-title="港澳台",凤凰卫视香港台
-https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰香港.png" group-title="港澳台",凤凰卫视香港台
-http://bx.757888.xyz/api.php?id=fhhk
-#EXTINF:-1 tvg-id="1" tvg-name="AXN" tvg-logo="https://github.com/l64142139/logo/blob/main/AXN.png" group-title="港澳台",AXN
-https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="明珠台" tvg-logo="https://github.com/l64142139/logo/blob/main/TVB明珠.png" group-title="港澳台",明珠台
-https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="無線新聞台" tvg-logo="https://github.com/l64142139/logo/blob/main/TVB无线新闻.png" group-title="港澳台",無線新聞台
-https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="無線新聞台" tvg-logo="https://github.com/l64142139/logo/blob/main/TVB无线新闻.png" group-title="港澳台",無線新聞台
-http://bx.757888.xyz/api.php?id=wxxw
-#EXTINF:-1 tvg-id="1" tvg-name="美亞電影台(HK)" tvg-logo="https://github.com/l64142139/logo/blob/main/美亚电影.png" group-title="港澳台",美亞電影台(HK
-https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="美亞電影台(HK)" tvg-logo="https://github.com/l64142139/logo/blob/main/美亚电影.png" group-title="港澳台",美亞電影台(HK
-http://bx.757888.xyz/api.php?id=meiya
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://github.com/l64142139/logo/blob/main/TVB翡翠.png" group-title="港澳台",翡翠台
-https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="翡翠台" tvg-logo="https://github.com/l64142139/logo/blob/main/TVB翡翠.png" group-title="港澳台",翡翠台
-http://bx.757888.xyz/api.php?id=fct
-#EXTINF:-1 tvg-id="1" tvg-name="HBO" tvg-logo="https://github.com/l64142139/logo/blob/main/HBOHD.png" group-title="港澳台",HBO
-https://s1.m16tv.cfd/aktv2/hbo/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="IQIYI" tvg-logo="https://github.com/l64142139/logo/blob/main/五星影院.png" group-title="港澳台",IQIYI
-https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TVB 星河" tvg-logo="https://github.com/l64142139/logo/blob/main/TVB星河.png" group-title="港澳台",TVB 星河
-https://s1.m16tv.cfd/aktv2/tvb/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="天映电影" tvg-logo="https://github.com/l64142139/logo/blob/main/天映频道.png" group-title="港澳台",天映电影
-https://s1.m16tv.cfd/aktv2/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="好萊塢電影台" tvg-logo="https://github.com/l64142139/logo/blob/main/好莱坞电影.png" group-title="港澳台",好萊塢電影台
-https://s1.m16tv.cfd/aktv2/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="東森洋片" tvg-logo="https://github.com/l64142139/logo/blob/main/东森洋片.png" group-title="港澳台",東森洋片
-https://s1.m16tv.cfd/aktv2/CH-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="東森電影" tvg-logo="https://github.com/l64142139/logo/blob/main/东森电影.png" group-title="港澳台",東森電影
-https://s1.m16tv.cfd/aktv2/CH-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="緯來體育台" tvg-logo="https://github.com/l64142139/logo/blob/main/纬来体育.png" group-title="港澳台",緯來體育台
-https://s1.m16tv.cfd/aktv2/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="民視第一台" tvg-logo="https://github.com/l64142139/logo/blob/main/民视第一台.png" group-title="港澳台",民視第一台
-https://s1.m16tv.cfd/taiwan/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="TVBS新聞" tvg-logo="https://github.com/l64142139/logo/blob/main/TVBS新闻.png" group-title="港澳台",TVBS新聞
-,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="中天新闻台" tvg-logo="https://github.com/l64142139/logo/blob/main/中天新闻.png" group-title="港澳台",中天新闻台
-https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="東森新聞," tvg-logo="https://github.com/l64142139/logo/blob/main/东森新闻.png" group-title="港澳台",東森新聞
-https://s1.m16tv.cfd/zhongtian/CH-1/AKTV.m3u8
