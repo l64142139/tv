@@ -39,17 +39,17 @@ http://39.134.61.206/TVOD/88888888/224/3221226498/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221226773/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://39.134.61.206/TVOD/88888888/224/3221226567/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视.png" group-title="卫视频道",鳳凰衛視中文台
 https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视.png" group-title="卫视频道",鳳凰衛視中文台
 http://bx.757888.xyz/api.php?id=fhzw
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
 https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
 http://bx.757888.xyz/api.php?id=fhzx
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
 https://s1.m16tv.cfd/aktv/CH-5/AKTV.m3u8
-tvg-logo="https://github.com/l64142139/logo/blob/main/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
+tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
 http://bx.757888.xyz/api.php?id=fhhk
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://39.134.61.206/TVOD/88888888/224/3221226425/index.m3u8
