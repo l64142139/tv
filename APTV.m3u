@@ -3,16 +3,6 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://codeberg.org/641421309/APTV/raw/branch/main/APTV.m3u
 
-#EXTINF:-1 group-title="💥松视｜直播",香蕉
-http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-#EXTINF:-1 group-title="💥松视｜直播",潘朵拉
-http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-#EXTINF:-1 group-title="💥松视｜直播",松視1台
-http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1 group-title="💥松视｜直播",松視2台
-http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1 group-title="💥松视｜直播",松視3台
-http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
 #EXTINF:-1 group-title="💥欧美｜成人",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="💥欧美｜成人",Brazzers
