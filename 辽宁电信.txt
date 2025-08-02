@@ -111,7 +111,18 @@ http://10.255.128.136/PLTV/88888888/224/3221225840/10000100000000060000000000411
 http://10.255.128.136/PLTV/88888888/224/3221225855/10000100000000060000000000500392_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="辽宁地方",营口新闻综合
 http://10.255.128.136/PLTV/88888888/224/3221225856/10000100000000060000000000500390_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk#EXTINF:-1 group-title="卫视频道",江苏卫视
 http://10.255.128.136/PLTV/88888888/224/3221225803/10000100000000060000000000009666_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://10.255.128.136/PLTV/88888888/224/3221225802/10000100000000060000000000009663_0.smil/index.m3u8?fmt=ts2hls
@@ -274,4 +285,5 @@ http://10.255.128.136/PLTV/88888888/224/3221226283/10000100000000060000000000801
 #EXTINF:-1 group-title="数字频道",辽宁宜家购物
 http://10.255.128.136/PLTV/88888888/224/3221226291/10000100000000060000000000801425_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="数字频道",优购物
+
 http://10.255.128.136/PLTV/88888888/224/3221226296/10000100000000060000000001081155_0.smil/index.m3u8?fmt=ts2hls
