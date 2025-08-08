@@ -1,0 +1,232 @@
+{
+  "spider": "./fm.jar;md5;b40f328ddc5becefbfca81db7bdca250",
+  "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
+  "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
+  "sites": [
+  
+    
+   {"key": "csp_appys_鑷诲僵",
+   "name": "4K鑷诲僵涓栫晫",
+   "type": 3,
+   "api": "csp_AppYsV2",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "http://cms4ksj.lyyytv.cn/api.php/app/"},     
+  
+
+    
+   {"key": "csp_appys_澶╁爞",
+   "name": "鐢靛奖鈹冨ぉ鍫�",
+   "type": 3,
+   "api": "csp_AppYsV2",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "http://cmsdytt.lyyytv.cn/api.php/app/"},     
+  
+   {
+      "key": "csp_LiteApple",
+      "name": "鑻规灉鈹冨奖瑙�",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ 
+
+  
+    {
+      "key": "鏄熻緣",
+      "name": "鏄熻緣鈹冨奖瑙�",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
+
+   
+
+   
+   
+    {
+      "key": "csp_Jpys",
+      "name": "閲戠墝鈹冨奖瑙�",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+ 
+
+    {
+      "key": "csp_FourK",
+      "name": "鈹冪粷瀵光攦褰辫",
+      "type": 3,
+      "api": "csp_FourK",
+      "ext": "https://www.4kvm.tv"
+    },
+
+
+
+
+  
+
+ 
+
+  
+ 
+    {
+      "key": "閰风嫍",
+      "name": "馃惥鈹冮叿鐙椻攦闊充箰",
+      "type": 3,
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "閰风嫍",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+ 
+
+    {
+      "key": "鍎跨",
+      "name": "馃摎鈹冨効绔モ攦鍚挋",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./lib/鍏斿皬璐�.js"
+    },
+    {
+      "key": "灏戝効",
+      "name": "馃摎鈹冨皯鍎库攦鏁欒偛",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./lib/灏戝効鏁欒偛.json"
+    },
+    {
+      "key": "灏忓",
+      "name": "馃摎鈹冨皬瀛︹攦璇惧爞",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./lib/灏忓璇惧爞.json"
+    },
+    {
+      "key": "鍒濅腑",
+      "name": "馃摎鈹冨垵涓攦璇惧爞",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./lib/鍒濅腑璇惧爞.json"
+    },
+    {
+      "key": "楂樹腑",
+      "name": "馃摎鈹冮珮涓攦璇惧爞",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./lib/楂樹腑璇惧爞.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "Q缇わ細641784680",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0,
+      "ext": ".json/txt/ken.txt"
+    }
+  ],
+  "parses": [
+    {
+      "name": "Json鑱氬悎",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Web鑱氬悎",
+      "type": 3,
+      "url": "Web"
+    },
+  
+    {
+      "name": "缃戠粶",
+      "type": 1,
+      "url": "https://jx.bhs6.com/api/?key=3b0f9783d81fb21a99db6bf161fac26d&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹�",
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "tucheng",
+          "sohu",
+          "鎼滅嫄",
+          "letv",
+          "涔愯",
+          "mgtv",
+          "鑺掓灉",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://www.lyyytv.cn/yt/zhibo/1.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
