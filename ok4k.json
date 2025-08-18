@@ -5,8 +5,8 @@
   "sites": [
   
     
-   {"key": "csp_appys_鑷诲僵",
-   "name": "4K鑷诲僵涓栫晫",
+   {"key": "csp_appys_臻彩",
+   "name": "4K臻彩世界",
    "type": 3,
    "api": "csp_AppYsV2",
    "searchable": 1,
@@ -16,8 +16,8 @@
   
 
     
-   {"key": "csp_appys_澶╁爞",
-   "name": "鐢靛奖鈹冨ぉ鍫�",
+   {"key": "csp_appys_天堂",
+   "name": "电影┃天堂",
    "type": 3,
    "api": "csp_AppYsV2",
    "searchable": 1,
@@ -27,7 +27,7 @@
   
    {
       "key": "csp_LiteApple",
-      "name": "鑻规灉鈹冨奖瑙�",
+      "name": "苹果┃影视",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -38,8 +38,8 @@
 
   
     {
-      "key": "鏄熻緣",
-      "name": "鏄熻緣鈹冨奖瑙�",
+      "key": "星辉",
+      "name": "星辉┃影视",
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
@@ -51,7 +51,7 @@
    
     {
       "key": "csp_Jpys",
-      "name": "閲戠墝鈹冨奖瑙�",
+      "name": "金牌┃影视",
       "type": 3,
       "api": "csp_Jpys"
     },
@@ -59,7 +59,7 @@
 
     {
       "key": "csp_FourK",
-      "name": "鈹冪粷瀵光攦褰辫",
+      "name": "┃绝对┃影视",
       "type": 3,
       "api": "csp_FourK",
       "ext": "https://www.4kvm.tv"
@@ -75,15 +75,15 @@
   
  
     {
-      "key": "閰风嫍",
-      "name": "馃惥鈹冮叿鐙椻攦闊充箰",
+      "key": "酷狗",
+      "name": "🐾┃酷狗┃音乐",
       "type": 3,
       "api": "csp_Kugou",
       "playerType": 2,
       "ext": {
         "classes": [
           {
-            "type_name": "閰风嫍",
+            "type_name": "酷狗",
             "type_id": "kugou"
           }
         ]
@@ -92,8 +92,8 @@
  
 
     {
-      "key": "鍎跨",
-      "name": "馃摎鈹冨効绔モ攦鍚挋",
+      "key": "儿童",
+      "name": "📚┃儿童┃启蒙",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -103,11 +103,11 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "./lib/鍏斿皬璐�.js"
+      "ext": "./lib/兔小贝.js"
     },
     {
-      "key": "灏戝効",
-      "name": "馃摎鈹冨皯鍎库攦鏁欒偛",
+      "key": "少儿",
+      "name": "📚┃少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -117,53 +117,83 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "./lib/灏戝効鏁欒偛.json"
+      "ext": "./lib/少儿教育.json"
     },
-    {
-      "key": "灏忓",
-      "name": "馃摎鈹冨皬瀛︹攦璇惧爞",
+  {
+      "key": "相声小品",
+      "name": "相声｜小品",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/灏忓璇惧爞.json"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
     },
     {
-      "key": "鍒濅腑",
-      "name": "馃摎鈹冨垵涓攦璇惧爞",
+      "key": "健身",
+      "name": "休闲｜健身",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/鍒濅腑璇惧爞.json"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/31c6620e61954b1395d81ca96fcaaf95.jpg"
     },
     {
-      "key": "楂樹腑",
-      "name": "馃摎鈹冮珮涓攦璇惧爞",
+      "key": "国学",
+      "name": "国学｜经典",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "./lib/楂樹腑璇惧爞.json"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/1203091da6cb4dc58fb39e7af03ffbf3.jpg"
     },
+    {
+      "key": "百科",
+      "name": "百科｜全书",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/830e33a6b9f140eab57b298f85b85cb1.jpg"
+    },
+    {
+      "key": "地理",
+      "name": "全球｜地理",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/e5509817319e446ba2b13f3c3d6b0d2e.jpg"
+    },
+    {
+      "key": "科学",
+      "name": "科学｜发明",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/15c23182b6fb415ea8314a6dc663b2d0.jpg"
+    },
+    {
+      "key": "戏曲",
+      "name": "戏曲｜大全",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./
     {
       "key": "push_agent",
-      "name": "Q缇わ細641784680",
+      "name": "Q群：641784680",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -173,36 +203,36 @@
   ],
   "parses": [
     {
-      "name": "Json鑱氬悎",
+      "name": "Json聚合",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "Web鑱氬悎",
+      "name": "Web聚合",
       "type": 3,
       "url": "Web"
     },
   
     {
-      "name": "缃戠粶",
+      "name": "网络",
       "type": 1,
       "url": "https://jx.bhs6.com/api/?key=3b0f9783d81fb21a99db6bf161fac26d&url=",
       "ext": {
         "flag": [
           "qq",
-          "鑵捐",
+          "腾讯",
           "qiyi",
-          "鐖卞鑹�",
-          "濂囪壓",
+          "爱奇艺",
+          "奇艺",
           "youku",
-          "浼橀叿",
+          "优酷",
           "tucheng",
           "sohu",
-          "鎼滅嫄",
+          "搜狐",
           "letv",
-          "涔愯",
+          "乐视",
           "mgtv",
-          "鑺掓灉",
+          "芒果",
           "tnmb",
           "seven",
           "yzm",
@@ -230,3 +260,9 @@
     }
   ]
 }
+搜索
+
+复制
+
+翻译
+
