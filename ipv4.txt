@@ -292,7 +292,12 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历届春晚",2025年春晚
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
-#EXTINF:-1 group-title="地方频道",山西晋中公共
+#EXTINF:-1 group-title="九三阅兵",2025-9-3阅兵
+http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
+#EXTINF:-1 group-title="九三阅兵",阅兵装备详解
+https://sns-video-qc.xhscdn.com/spectrum/1040g35831m3gn20vl2105psa03dj9asni3a3cl8?sign=01d904f24ffd21724e450a6ad66bd6ff&t=68c0dbf2
+#EXTINF:-1 group-title="九三阅兵",正义必胜晚会
+http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8#EXTINF:-1 group-title="地方频道",山西晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 group-title="地方频道",山西晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
