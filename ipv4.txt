@@ -200,7 +200,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 #EXTINF:-1 group-title="数字频道",咪咕视频32
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
 #EXTINF:-1 group-title="数字频道",新动漫高清
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历届春晚",1983年春晚
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历届春晚",1983年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/img/春晚.png" group-title="历届春晚",1984年春晚
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
@@ -291,7 +292,8 @@ http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
 #EXTINF:-1 group-title="九三阅兵",阅兵装备详解
 https://sns-video-qc.xhscdn.com/spectrum/1040g35831m3gn20vl2105psa03dj9asni3a3cl8?sign=01d904f24ffd21724e450a6ad66bd6ff&t=68c0dbf2
 #EXTINF:-1 group-title="九三阅兵",正义必胜晚会
-http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8#EXTINF:-1 group-title="地方频道",山西晋中公共
+http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8
+#EXTINF:-1 group-title="地方频道",山西晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 group-title="地方频道",山西晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
