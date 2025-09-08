@@ -110,15 +110,9 @@ http://39.134.52.215/PLTV/88888888/224/3221226594/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://39.134.52.215/PLTV/88888888/224/3221226613/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
-http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
 http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
-http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="卫视频道",鳳凰衛視資訊台
 http://bxtv.3a.ink/api.php?id=fhzx
-#EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
-http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
 http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 group-title="卫视频道",江西卫视
@@ -279,3 +273,9 @@ http://39.134.52.215/PLTV/88888888/224/3221227138/index.m3u8
 http://39.134.52.215/PLTV/88888888/224/3221227140/index.m3u8
 #EXTINF:-1 group-title="数字频道",精彩广场舞
 http://39.134.52.215/PLTV/88888888/224/3221227142/index.m3u8
+#EXTINF:-1 group-title="九三阅兵",2025-9-3阅兵
+http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
+#EXTINF:-1 group-title="九三阅兵",阅兵装备详解
+https://sns-video-qc.xhscdn.com/spectrum/1040g35831m3gn20vl2105psa03dj9asni3a3cl8?sign=01d904f24ffd21724e450a6ad66bd6ff&t=68c0dbf2
+#EXTINF:-1 group-title="九三阅兵",正义必胜晚会
+http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8
