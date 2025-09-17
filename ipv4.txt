@@ -117,8 +117,6 @@ http://39.134.61.206/TVOD/88888888/224/3221226508/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221226512/index.m3u8
 #EXTINF:-1 tvg-id="6001" tvg-name="新闻综合" tvg-logo="https://epg.v1.mk/logo/新闻综合.png" group-title="辽宁频道",新闻综合
 http://39.134.61.206/TVOD/88888888/224/3221226593/index.m3u8
-#EXTINF:-1 tvg-id="6001" tvg-name="赵本山小品" tvg-logo="https://epg.v1.mk/logo/新闻综合.png" group-title="辽宁频道",赵本山小品轮播
-https://live.iill.top/douyu/9817716
 #EXTINF:-1 group-title="香港频道",凤凰中文
 http://iptv.4666888.xyz/iptv.php?id=20060
 #EXTINF:-1 group-title="香港频道",凤凰资讯
