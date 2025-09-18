@@ -1387,3 +1387,4 @@ http://cdntv.online/high/ynemik5cl9/1704.mpeg
 http://cdntv.online/high/ynemik5cl9/1705.mpeg
 #EXTINF:-1 group-title="午夜剧场_9527",DANCING
 http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12144/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MGQGZMUEWZZ6V8/12144/index.m3u8
