@@ -556,134 +556,133 @@ http://iptv.4666888.xyz/iptv.php?id=20301
 #EXTINF:-1 group-title="台湾频道",靖天资讯
 http://iptv.4666888.xyz/iptv.php?id=20302
 #EXTINF:-1 group-title="虎牙电影",电影_星爷
-https://www.goodiptv.club/huya/11342412
+http://cfss.cc/cdn/hy/11342412.flv
 #EXTINF:-1 group-title="虎牙电影",电影_英叔
-https://www.goodiptv.club/huya/11342421
+http://cfss.cc/cdn/hy/11342421.flv
 #EXTINF:-1 group-title="虎牙电影",电影_发哥
-https://www.goodiptv.club/huya/11342387
+http://cfss.cc/cdn/hy/11342387.flv
 #EXTINF:-1 group-title="虎牙电影",电影_成龙
-https://www.goodiptv.club/huya/11342386
+http://cfss.cc/cdn/hy/11342386.flv
 #EXTINF:-1 group-title="虎牙电影",电影_王晶
-https://www.goodiptv.club/huya/11602058
+http://cfss.cc/cdn/hy/11602058.flv
 #EXTINF:-1 group-title="虎牙电影",电影_沈腾
-https://www.goodiptv.club/huya/11601968
+http://cfss.cc/cdn/hy/11601968.flv
 #EXTINF:-1 group-title="虎牙电影",电影_黄渤
-https://www.goodiptv.club/huya/11352876
+http://cfss.cc/cdn/hy/11352876.flv
 #EXTINF:-1 group-title="虎牙电影",电影_强森
-https://www.goodiptv.club/huya/21059581
+http://cfss.cc/cdn/hy/21059581.flv
 #EXTINF:-1 group-title="虎牙电影",电影_漫威
-https://www.goodiptv.club/huya/11602034
+http://cfss.cc/cdn/hy/11602034.flv
 #EXTINF:-1 group-title="虎牙电影",电影_周星星
-https://www.goodiptv.club/huya/11336587
+http://cfss.cc/cdn/hy/11336587.flv
 #EXTINF:-1 group-title="虎牙电影",电影_李连杰
-https://www.goodiptv.club/huya/11342390
+http://cfss.cc/cdn/hy/11342390.flv
 #EXTINF:-1 group-title="虎牙电影",电影_洪金宝
-https://www.goodiptv.club/huya/11279251
+http://cfss.cc/cdn/hy/11279251.flv
 #EXTINF:-1 group-title="虎牙电影",电影_梁家辉
-https://www.goodiptv.club/huya/11342429
+http://cfss.cc/cdn/hy/11342429.flv
 #EXTINF:-1 group-title="虎牙电影",电影_刘德华
-https://www.goodiptv.club/huya/11342424
+http://cfss.cc/cdn/hy/11342424.flv
 #EXTINF:-1 group-title="虎牙电影",电影_斯坦森
-https://www.goodiptv.club/huya/21059588
+http://cfss.cc/cdn/hy/21059588.flv
 #EXTINF:-1 group-title="虎牙电影",电影_曾江
-https://www.goodiptv.club/huya/11601981
+http://cfss.cc/cdn/hy/11601981.flv
 #EXTINF:-1 group-title="虎牙电影",电影_周海媚
 http://cfss.cc/cdn/hy/11279247.flv
 #EXTINF:-1 group-title="虎牙电影",电影_许冠英
-https://www.goodiptv.club/huya/11601972
+http://cfss.cc/cdn/hy/11601972.flv
 #EXTINF:-1 group-title="虎牙电影",电影_五福星
-https://www.goodiptv.club/huya/11282233
+http://cfss.cc/cdn/hy/11282233.flv
 #EXTINF:-1 group-title="虎牙电影",电影_邱淑贞
-https://www.goodiptv.club/huya/11352949
+http://cfss.cc/cdn/hy/11352949.flv
 #EXTINF:-1 group-title="虎牙电影",电影_古天乐
-https://www.goodiptv.club/huya/11602041
+http://cfss.cc/cdn/hy/11602041.flv
 #EXTINF:-1 group-title="虎牙电影",电影_徐克
-https://www.goodiptv.club/huya/11352909
+http://cfss.cc/cdn/hy/11352909.flv
 #EXTINF:-1 group-title="虎牙电影",电影_冯小刚
-https://www.goodiptv.club/huya/11352906
+http://cfss.cc/cdn/hy/11352906.flv
 #EXTINF:-1 group-title="虎牙电影",电影_甄子丹
-https://www.goodiptv.club/huya/11352935
+http://cfss.cc/cdn/hy/11352935.flv
 #EXTINF:-1 group-title="虎牙电影",电影_宇宙
-https://www.goodiptv.club/huya/11342428
+http://cfss.cc/cdn/hy/11342428.flv
 #EXTINF:-1 group-title="虎牙电影",电影_怪兽
-https://www.goodiptv.club/huya/21059577
+http://cfss.cc/cdn/hy/21059577.flv
 #EXTINF:-1 group-title="虎牙电影",电影_武侠
-https://www.goodiptv.club/huya/11342427
+http://cfss.cc/cdn/hy/11342427.flv
 #EXTINF:-1 group-title="虎牙电影",电影_警匪
-https://www.goodiptv.club/huya/11352886
+http://cfss.cc/cdn/hy/11352886.flv
 #EXTINF:-1 group-title="虎牙电影",电影_罪犯
-https://www.goodiptv.club/huya/11352962
+http://cfss.cc/cdn/hy/11352962.flv
 #EXTINF:-1 group-title="虎牙电影",电影_枪战
-https://www.goodiptv.club/huya/21059579
+http://cfss.cc/cdn/hy/21059579.flv
 #EXTINF:-1 group-title="虎牙电影",电影_海盗
-https://www.goodiptv.club/huya/21059595
+http://cfss.cc/cdn/hy/21059595.flv
 #EXTINF:-1 group-title="虎牙电影",电影_推荐
-https://www.goodiptv.club/huya/11602041
+http://cfss.cc/cdn/hy/11602041.flv
 #EXTINF:-1 group-title="虎牙电影",电影_救援
-https://www.goodiptv.club/huya/21059594
+http://cfss.cc/cdn/hy/21059594.flv
 #EXTINF:-1 group-title="虎牙电影",电影_热血
-https://www.goodiptv.club/huya/11352934
+http://cfss.cc/cdn/hy/11352934.flv
 #EXTINF:-1 group-title="虎牙电影",电影_盗墓
-https://www.goodiptv.club/huya/21059552
+http://cfss.cc/cdn/hy/21059552.flv
 #EXTINF:-1 group-title="虎牙电影",电影_贺岁
-https://www.goodiptv.club/huya/11601971
+http://cfss.cc/cdn/hy/11601971.flv
 #EXTINF:-1 group-title="虎牙电影",电影_玄幻
-https://www.goodiptv.club/huya/11342414
+http://cfss.cc/cdn/hy/11342414.flv
 #EXTINF:-1 group-title="虎牙电影",电影_谍战
-https://www.goodiptv.club/huya/21059585
+http://cfss.cc/cdn/hy/21059585.flv
 #EXTINF:-1 group-title="虎牙电影",电影_战争
-https://www.goodiptv.club/huya/21059592
+http://cfss.cc/cdn/hy/21059592.flv
 #EXTINF:-1 group-title="虎牙电影",电影_喜剧
-https://www.goodiptv.club/huya/11352877
+http://cfss.cc/cdn/hy/11352877.flv
 #EXTINF:-1 group-title="虎牙电影",电影_港片
-https://www.goodiptv.club/huya/11602043
+http://cfss.cc/cdn/hy/11602043.flv
 #EXTINF:-1 group-title="虎牙电影",电影_国产
-https://www.goodiptv.club/huya/11352973
+http://cfss.cc/cdn/hy/11352973.flv
 #EXTINF:-1 group-title="虎牙电影",电影_八点档
-https://www.goodiptv.club/huya/880261
+http://cfss.cc/cdn/hy/880261.flv
 #EXTINF:-1 group-title="虎牙电影",电影_蜘蛛侠
-https://www.goodiptv.club/huya/21059599
+http://cfss.cc/cdn/hy/21059599.flv
 #EXTINF:-1 group-title="虎牙电影",电影_贺岁片
-https://www.goodiptv.club/huya/11601986
+http://cfss.cc/cdn/hy/11601986.flv
 #EXTINF:-1 group-title="虎牙电影",电影_功夫片
-https://www.goodiptv.club/huya/11352941
+http://cfss.cc/cdn/hy/11352941.flv
 #EXTINF:-1 group-title="虎牙电影",电影_黑帮片
-https://www.goodiptv.club/huya/11336719
+http://cfss.cc/cdn/hy/11336719.flv
 #EXTINF:-1 group-title="虎牙电影",电影_丧尸片
-https://www.goodiptv.club/huya/21059578
+http://cfss.cc/cdn/hy/21059578.flv
 #EXTINF:-1 group-title="虎牙电影",电影_灾难片
-https://www.goodiptv.club/huya/11602075
+http://cfss.cc/cdn/hy/11602075.flv
 #EXTINF:-1 group-title="虎牙电影",电影_谍战片
-https://www.goodiptv.club/huya/21059587
+http://cfss.cc/cdn/hy/21059587.flv
 #EXTINF:-1 group-title="虎牙电影",电影_战争片
-https://www.goodiptv.club/huya/21059574
+http://cfss.cc/cdn/hy/21059574.flv
 #EXTINF:-1 group-title="虎牙电影",电影_犯罪片
-https://www.goodiptv.club/huya/11352974
+http://cfss.cc/cdn/hy/11352974.flv
 #EXTINF:-1 group-title="虎牙电影",电影_古装片
-https://www.goodiptv.club/huya/11336590
+http://cfss.cc/cdn/hy/11336590.flv
 #EXTINF:-1 group-title="虎牙电影",电影_高分动作
-https://www.goodiptv.club/huya/11352884
+http://cfss.cc/cdn/hy/11352884.flv
 #EXTINF:-1 group-title="虎牙电影",电影_动作电影
-https://www.goodiptv.club/huya/11602077
+http://cfss.cc/cdn/hy/11602077.flv
 #EXTINF:-1 group-title="虎牙电影",电影_搞笑喜剧
-https://www.goodiptv.club/huya/11342423
+http://cfss.cc/cdn/hy/11342423.flv
 #EXTINF:-1 group-title="虎牙电影",电影_喜剧专场
-https://www.goodiptv.club/huya/11602044
+http://cfss.cc/cdn/hy/11602044.flv
 #EXTINF:-1 group-title="虎牙电影",电影_欢笑影院
-https://www.goodiptv.club/huya/11352894
+http://cfss.cc/cdn/hy/11352894.flv
 #EXTINF:-1 group-title="虎牙电影",电影_不挤影院
-https://www.goodiptv.club/huya/11352897
+http://cfss.cc/cdn/hy/11352897.flv
 #EXTINF:-1 group-title="虎牙电影",电影_国产悬疑
-https://www.goodiptv.club/huya/11342395
+http://cfss.cc/cdn/hy/11342395.flv
 #EXTINF:-1 group-title="虎牙电影",电影_快意江湖
-https://www.goodiptv.club/huya/11342435
+http://cfss.cc/cdn/hy/11342435.flv
 #EXTINF:-1 group-title="虎牙电影",电影_黑帮斗争
-https://www.goodiptv.club/huya/11342419
+http://cfss.cc/cdn/hy/11342419.flv
 #EXTINF:-1 group-title="虎牙电影",电影_嫣然影厅
-https://www.goodiptv.club/huya/11601977
+http://cfss.cc/cdn/hy/11601977.flv
 #EXTINF:-1 group-title="虎牙电影",电影_许氏三杰
-https://www.goodiptv.club/huya/11602033
-#EXTINF:-1 group-title="虎牙电影",电影_超异能族
+http://cfss.cc/cdn/hy/11602033.flv#EXTINF:-1 group-title="虎牙电影",电影_超异能族
 http://cfss.cc/cdn/hy/21059586.flv
 #EXTINF:-1 group-title="虎牙电影",电影_古墓系列
 http://cfss.cc/cdn/hy/11352913.flv
