@@ -235,140 +235,6 @@ http://39.134.52.215/PLTV/88888888/224/3221226881/index.m3u8
 http://39.134.52.215/PLTV/88888888/224/3221226816/index.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏藏语卫视
 http://39.134.52.215/PLTV/88888888/224/3221226820/index.m3u8
-#EXTINF:-1 group-title="虎牙电影",电影_星爷
-https://www.goodiptv.club/huya/11342412
-#EXTINF:-1 group-title="虎牙电影",电影_英叔
-https://www.goodiptv.club/huya/11342421
-#EXTINF:-1 group-title="虎牙电影",电影_发哥
-https://www.goodiptv.club/huya/11342387
-#EXTINF:-1 group-title="虎牙电影",电影_成龙
-https://www.goodiptv.club/huya/11342386
-#EXTINF:-1 group-title="虎牙电影",电影_王晶
-https://www.goodiptv.club/huya/11602058
-#EXTINF:-1 group-title="虎牙电影",电影_沈腾
-https://www.goodiptv.club/huya/11601968
-#EXTINF:-1 group-title="虎牙电影",电影_黄渤
-https://www.goodiptv.club/huya/11352876
-#EXTINF:-1 group-title="虎牙电影",电影_强森
-https://www.goodiptv.club/huya/21059581
-#EXTINF:-1 group-title="虎牙电影",电影_漫威
-https://www.goodiptv.club/huya/11602034
-#EXTINF:-1 group-title="虎牙电影",电影_周星星
-https://www.goodiptv.club/huya/11336587
-#EXTINF:-1 group-title="虎牙电影",电影_李连杰
-https://www.goodiptv.club/huya/11342390
-#EXTINF:-1 group-title="虎牙电影",电影_洪金宝
-https://www.goodiptv.club/huya/11279251
-#EXTINF:-1 group-title="虎牙电影",电影_梁家辉
-https://www.goodiptv.club/huya/11342429
-#EXTINF:-1 group-title="虎牙电影",电影_刘德华
-https://www.goodiptv.club/huya/11342424
-#EXTINF:-1 group-title="虎牙电影",电影_斯坦森
-https://www.goodiptv.club/huya/21059588
-#EXTINF:-1 group-title="虎牙电影",电影_曾江
-https://www.goodiptv.club/huya/11601981
-#EXTINF:-1 group-title="虎牙电影",电影_周海媚
-http://cfss.cc/cdn/hy/11279247.flv
-#EXTINF:-1 group-title="虎牙电影",电影_许冠英
-https://www.goodiptv.club/huya/11601972
-#EXTINF:-1 group-title="虎牙电影",电影_五福星
-https://www.goodiptv.club/huya/11282233
-#EXTINF:-1 group-title="虎牙电影",电影_邱淑贞
-https://www.goodiptv.club/huya/11352949
-#EXTINF:-1 group-title="虎牙电影",电影_古天乐
-https://www.goodiptv.club/huya/11602041
-#EXTINF:-1 group-title="虎牙电影",电影_徐克
-https://www.goodiptv.club/huya/11352909
-#EXTINF:-1 group-title="虎牙电影",电影_冯小刚
-https://www.goodiptv.club/huya/11352906
-#EXTINF:-1 group-title="虎牙电影",电影_甄子丹
-https://www.goodiptv.club/huya/11352935
-#EXTINF:-1 group-title="虎牙电影",电影_宇宙
-https://www.goodiptv.club/huya/11342428
-#EXTINF:-1 group-title="虎牙电影",电影_怪兽
-https://www.goodiptv.club/huya/21059577
-#EXTINF:-1 group-title="虎牙电影",电影_武侠
-https://www.goodiptv.club/huya/11342427
-#EXTINF:-1 group-title="虎牙电影",电影_警匪
-https://www.goodiptv.club/huya/11352886
-#EXTINF:-1 group-title="虎牙电影",电影_罪犯
-https://www.goodiptv.club/huya/11352962
-#EXTINF:-1 group-title="虎牙电影",电影_枪战
-https://www.goodiptv.club/huya/21059579
-#EXTINF:-1 group-title="虎牙电影",电影_海盗
-https://www.goodiptv.club/huya/21059595
-#EXTINF:-1 group-title="虎牙电影",电影_推荐
-https://www.goodiptv.club/huya/11602041
-#EXTINF:-1 group-title="虎牙电影",电影_救援
-https://www.goodiptv.club/huya/21059594
-#EXTINF:-1 group-title="虎牙电影",电影_热血
-https://www.goodiptv.club/huya/11352934
-#EXTINF:-1 group-title="虎牙电影",电影_盗墓
-https://www.goodiptv.club/huya/21059552
-#EXTINF:-1 group-title="虎牙电影",电影_贺岁
-https://www.goodiptv.club/huya/11601971
-#EXTINF:-1 group-title="虎牙电影",电影_玄幻
-https://www.goodiptv.club/huya/11342414
-#EXTINF:-1 group-title="虎牙电影",电影_谍战
-https://www.goodiptv.club/huya/21059585
-#EXTINF:-1 group-title="虎牙电影",电影_战争
-https://www.goodiptv.club/huya/21059592
-#EXTINF:-1 group-title="虎牙电影",电影_喜剧
-https://www.goodiptv.club/huya/11352877
-#EXTINF:-1 group-title="虎牙电影",电影_港片
-https://www.goodiptv.club/huya/11602043
-#EXTINF:-1 group-title="虎牙电影",电影_国产
-https://www.goodiptv.club/huya/11352973
-#EXTINF:-1 group-title="虎牙电影",电影_八点档
-https://www.goodiptv.club/huya/880261
-#EXTINF:-1 group-title="虎牙电影",电影_蜘蛛侠
-https://www.goodiptv.club/huya/21059599
-#EXTINF:-1 group-title="虎牙电影",电影_贺岁片
-https://www.goodiptv.club/huya/11601986
-#EXTINF:-1 group-title="虎牙电影",电影_功夫片
-https://www.goodiptv.club/huya/11352941
-#EXTINF:-1 group-title="虎牙电影",电影_黑帮片
-https://www.goodiptv.club/huya/11336719
-#EXTINF:-1 group-title="虎牙电影",电影_丧尸片
-https://www.goodiptv.club/huya/21059578
-#EXTINF:-1 group-title="虎牙电影",电影_灾难片
-https://www.goodiptv.club/huya/11602075
-#EXTINF:-1 group-title="虎牙电影",电影_谍战片
-https://www.goodiptv.club/huya/21059587
-#EXTINF:-1 group-title="虎牙电影",电影_战争片
-https://www.goodiptv.club/huya/21059574
-#EXTINF:-1 group-title="虎牙电影",电影_犯罪片
-https://www.goodiptv.club/huya/11352974
-#EXTINF:-1 group-title="虎牙电影",电影_古装片
-https://www.goodiptv.club/huya/11336590
-#EXTINF:-1 group-title="虎牙电影",电影_高分动作
-https://www.goodiptv.club/huya/11352884
-#EXTINF:-1 group-title="虎牙电影",电影_动作电影
-https://www.goodiptv.club/huya/11602077
-#EXTINF:-1 group-title="虎牙电影",电影_搞笑喜剧
-https://www.goodiptv.club/huya/11342423
-#EXTINF:-1 group-title="虎牙电影",电影_喜剧专场
-https://www.goodiptv.club/huya/11602044
-#EXTINF:-1 group-title="虎牙电影",电影_欢笑影院
-https://www.goodiptv.club/huya/11352894
-#EXTINF:-1 group-title="虎牙电影",电影_不挤影院
-https://www.goodiptv.club/huya/11352897
-#EXTINF:-1 group-title="虎牙电影",电影_国产悬疑
-https://www.goodiptv.club/huya/11342395
-#EXTINF:-1 group-title="虎牙电影",电影_快意江湖
-https://www.goodiptv.club/huya/11342435
-#EXTINF:-1 group-title="虎牙电影",电影_黑帮斗争
-https://www.goodiptv.club/huya/11342419
-#EXTINF:-1 group-title="虎牙电影",电影_嫣然影厅
-https://www.goodiptv.club/huya/11601977
-#EXTINF:-1 group-title="虎牙电影",电影_许氏三杰
-https://www.goodiptv.club/huya/11602033
-#EXTINF:-1 group-title="虎牙电影",电影_超异能族
-http://cfss.cc/cdn/hy/21059586.flv
-#EXTINF:-1 group-title="虎牙电影",电影_古墓系列
-http://cfss.cc/cdn/hy/11352913.flv
-#EXTINF:-1 group-title="虎牙电影",电影_经典港片
-http://cfss.cc/cdn/hy/11352965.flv#https://live.laobaitv.net/huya/11352965#https://live.iill.top/huya/11352965#https://fmbox.cc/huya.php?id=11352965#http://cdn.jdshipin.com:8880/huya.php?id=11352965#http://live.nctv.top/huya.php?id=11352965#https://live.metshop.top/huya/11352965
 #EXTINF:-1 group-title="数字频道",怀旧剧场频道
 http://39.134.52.215/PLTV/88888888/224/3221227079/index.m3u8
 #EXTINF:-1 group-title="数字频道",风云足球频道
@@ -413,6 +279,7 @@ http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
 https://sns-video-qc.xhscdn.com/spectrum/1040g35831m3gn20vl2105psa03dj9asni3a3cl8?sign=01d904f24ffd21724e450a6ad66bd6ff&t=68c0dbf2
 #EXTINF:-1 group-title="九三阅兵",正义必胜晚会
 http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8
+
 
 
 
