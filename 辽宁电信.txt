@@ -111,6 +111,14 @@ http://10.255.128.136/PLTV/88888888/224/3221225840/10000100000000060000000000411
 http://10.255.128.136/PLTV/88888888/224/3221225855/10000100000000060000000000500392_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="辽宁地方",营口新闻综合
 http://10.255.128.136/PLTV/88888888/224/3221225856/10000100000000060000000000500390_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="卫视频道",鳳凰衛視中文台
+http://bxtv.3a.ink/api.php?id=fhzw
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視资讯台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="卫视频道",鳳凰衛視资讯台
+http://bxtv.3a.ink/api.php?id=fhzx
+#EXTINF:-1 tvg-id="1" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="卫视频道",鳳凰衛視香港台
+http://bxtv.3a.ink/api.php?id=fhhk
+#EXTINF:-1 tvg-id="1" tvg-name="中天新闻台" tvg-logo="https://epg.iill.top/logo/中天新闻台.png" group-title="卫视频道",中天新闻台
+http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://10.255.128.136/PLTV/88888888/224/3221225803/10000100000000060000000000009666_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -425,4 +433,5 @@ http://jx.999315.xyz/yzzy/20250903/20785_ad349260/index.m3u8
 https://sns-video-qc.xhscdn.com/spectrum/1040g35831m3gn20vl2105psa03dj9asni3a3cl8?sign=01d904f24ffd21724e450a6ad66bd6ff&t=68c0dbf2
 #EXTINF:-1 group-title="九三阅兵",正义必胜晚会
 http://jx.999315.xyz/yzzy/20250905/21018_6395ac11/index.m3u8
+
 
