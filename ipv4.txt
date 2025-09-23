@@ -116,7 +116,7 @@ http://39.134.61.206/TVOD/88888888/224/3221226593/index.m3u8
 #EXTINF:-1 tvg-id="6001" tvg-name="赵本山小品" tvg-logo="https://epg.v1.mk/logo/新闻综合.png" group-title="辽宁频道",赵本山小品
 https://live.iill.top/douyu/9817716
 #EXTINF:-1 group-title="港台频道",凤凰香港
-http://47.91.17.126:20002/Smartv.php?id=hkphoenix_twn
+http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 #EXTINF:-1 group-title="港台频道",凤凰卫视
 http://47.91.17.126:20002/Smartv.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="港台频道",凤凰资讯
