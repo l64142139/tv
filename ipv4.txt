@@ -49,7 +49,7 @@ http://bxtv.3a.ink/api.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.iill.top/logo/中天新闻台.png" group-title="卫视频道",中天新闻台
-rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 http://bxtv.3a.ink/api.php?id=ztxw
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://39.134.61.206/TVOD/88888888/224/3221226425/index.m3u8
