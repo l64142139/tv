@@ -40,6 +40,15 @@ http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226498/index.m3u8
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226773/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视频道",CCTV 17 农村农业
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226567/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.iill.top/logo/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+https://smt.858.qzz.io/Smart.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-id="27" tvg-name="中天新闻" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="卫视频道",中天新闻
+http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
+https://smt.858.qzz.io/Smart.php?id=ctinews
+#EXTINF:-1 tvg-id="27" tvg-name="TVB欢乐台" tvg-logo="https://epg.iill.top/logo/TVB欢乐台.png" group-title="卫视频道",TVB欢乐台
+https://smt.858.qzz.io/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
