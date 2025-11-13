@@ -41,11 +41,7 @@ http://39.134.61.206/TVOD/88888888/224/3221226773/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221226567/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.iill.top/logo/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-https://smt.858.qzz.io/Smart.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="27" tvg-name="中天新闻" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="卫视频道",中天新闻
-https://smt.858.qzz.io/Smart.php?id=ctinews
-#EXTINF:-1 tvg-id="27" tvg-name="TVB欢乐台" tvg-logo="https://epg.iill.top/logo/TVB欢乐台.png" group-title="卫视频道",TVB欢乐台
-https://smt.858.qzz.io/Smart.php?id=tvbshuanle_twn
+http://bxtv.3a.ink/api.php?id=fhzw
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://39.134.61.206/TVOD/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
