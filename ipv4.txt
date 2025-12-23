@@ -30,7 +30,7 @@ http://39.134.61.206/TVOD/88888888/224/3221226851/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="央视频道",CCTV 12 社会与法
 http://39.134.61.206/TVOD/88888888/224/3221226906/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="央视频道",CCTV 13 新闻
-http://39.134.61.206/TVOD/88888888/224/3221226481/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221227133/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="央视频道",CCTV 14 少儿
 http://39.134.61.206/TVOD/88888888/224/3221226464/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="央视频道",CCTV 15 音乐
@@ -58,7 +58,7 @@ http://39.134.61.206/TVOD/88888888/224/3221226423/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://39.134.61.206/TVOD/88888888/224/3221226434/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="卫视频道",北京卫视
-http://39.134.61.206/TVOD/88888888/224/3221226709/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221227205/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://epg.iill.top/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://39.134.61.206/TVOD/88888888/224/3221226885/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -66,7 +66,7 @@ http://39.134.61.206/TVOD/88888888/224/3221227188/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="卫视频道",四川卫视
 http://39.134.61.206/TVOD/88888888/224/3221226938/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://epg.iill.top/logo/广西卫视.png" group-title="卫视频道",广西卫视
-http://39.134.61.206/TVOD/88888888/224/3221226580/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221227215/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://epg.iill.top/logo/天津卫视.png" group-title="卫视频道",天津卫视
 http://39.134.61.206/TVOD/88888888/224/3221226926/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://epg.iill.top/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
