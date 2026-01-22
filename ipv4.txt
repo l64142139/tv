@@ -150,14 +150,6 @@ http://120.76.248.139/live/bfgd/4200000312.m3u8
 http://120.76.248.139/live/bfgd/4200000274.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="四海钓鱼" tvg-logo="https://epg.v1.mk/logo/四海钓鱼.png" group-title="体育频道",四海钓鱼
 http://59.110.126.191:3000/637444975
-#EXTINF:-1 tvg-id="6002" tvg-name="赛事最经典" tvg-logo="https://epg.v1.mk/logo/赛事最经典.png" group-title="体育频道",赛事最经典
-http://59.110.126.191:3000/646596895
-#EXTINF:-1 tvg-id="6002" tvg-name="体坛名栏汇" tvg-logo="https://epg.v1.mk/logo/体坛名栏汇.png" group-title="体育频道",体坛名栏汇
-http://59.110.126.191:3000/629943305
-#EXTINF:-1 tvg-id="6002" tvg-name="陕西体育休闲频道" tvg-logo="https://epg.v1.mk/logo/陕西体育休闲频道.png" group-title="体育频道",陕西体育休闲频道
-http://59.110.126.191:3000/956909356
-#EXTINF:-1 tvg-id="6002" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="体育频道",武术世界
-http://59.110.126.191:3000/958475359
 #EXTINF:-1 tvg-id="6002" tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/快乐垂钓.png" group-title="体育频道",快乐垂钓
 http://59.110.126.191:3000/961930263
 #EXTINF:-1 tvg-id="6002" tvg-name="辽宁体育" tvg-logo="https://epg.v1.mk/logo/辽宁体育.png" group-title="体育频道",辽宁体育
@@ -167,14 +159,40 @@ http://39.134.61.206/TVOD/88888888/224/3221226900/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="体育频道",CCTV5+
 http://39.134.61.206/TVOD/88888888/224/3221227092/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="红牛运动" tvg-logo="https://epg.v1.mk/logo/红牛运动.png" group-title="体育频道",红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="体育频道",睛彩广场舞高清
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="6002" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="体育频道",武术世界
+http://59.110.126.191:3000/958475359
+#EXTINF:-1 group-title="体育频道",五星体育
+https://cdn3.163189.xyz/163189/wxty
+#EXTINF:-1 group-title="体育频道",兵乓球专场
+http://81.70.10.196:35455/huya/23505696
+#EXTINF:-1 group-title="体育频道",赛车专场
+http://81.70.10.196:35455/huya/18152482
+#EXTINF:-1 group-title="体育频道",摩托专场
+http://81.70.10.196:35455/huya/19197407
+#EXTINF:-1 group-title="体育频道",WWE
+http://81.70.10.196:35455/huya/30021023
+#EXTINF:-1 group-title="体育频道",扇耳光大赛
+http://81.70.10.196:35455/huya/30631765
+#EXTINF:-1 group-title="体育频道",摔跤专场
+http://81.70.10.196:35455/huya/20072812
+#EXTINF:-1 group-title="体育频道",拳击专场
+http://81.70.10.196:35455/huya/18152380
+#EXTINF:-1 group-title="体育频道",格斗专场
+http://81.70.10.196:35455/huya/20072796
+#EXTINF:-1 group-title="体育频道",健美专场
+http://81.70.10.196:35455/huya/26106704
+#EXTINF:-1 group-title="体育频道",健身专场
+http://81.70.10.196:35455/huya/24354754
+#EXTINF:-1 group-title="体育频道",瑜伽专场
+http://81.70.10.196:35455/huya/20753449
+#EXTINF:-1 group-title="体育频道",睛彩广场舞
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
-#EXTINF:-1 group-title="体育频道",睛彩竞技高清
+#EXTINF:-1 group-title="体育频道",睛彩竞技
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
-#EXTINF:-1 group-title="体育频道",睛彩篮球高清
+#EXTINF:-1 group-title="体育频道",睛彩篮球
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
-#EXTINF:-1 group-title="体育频道",睛彩青少高清
+#EXTINF:-1 group-title="体育频道",睛彩青少
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
 #EXTINF:-1 group-title="体育频道",咪咕视频1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
@@ -240,6 +258,38 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227445/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 #EXTINF:-1 group-title="体育频道",咪咕视频32
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
+#EXTINF:-1 group-title="电竞直播",JJ斗地主
+http://81.70.10.196:35455/huya/30814433
+#EXTINF:-1 group-title="电竞直播",欢乐斗地主
+http://81.70.10.196:35455/huya/21103928
+#EXTINF:-1 group-title="电竞直播",穿越火线
+http://81.70.10.196:35455/huya/660101
+#EXTINF:-1 group-title="电竞直播",永劫无间
+http://81.70.10.196:35455/huya/660115
+#EXTINF:-1 group-title="电竞直播",DOTA2
+http://81.70.10.196:35455/huya/476318
+#EXTINF:-1 group-title="电竞直播",地下城与勇士
+http://81.70.10.196:35455/huya/21103948
+#EXTINF:-1 group-title="电竞直播",跑跑卡丁车
+http://free.frp.vip:10147/douyu/7722576
+#EXTINF:-1 group-title="电竞直播",王者荣耀
+http://81.70.10.196:35455/huya/660002
+#EXTINF:-1 group-title="电竞直播",和平精英
+http://81.70.10.196:35455/huya/660135
+#EXTINF:-1 group-title="电竞直播",三角洲行动
+http://81.70.10.196:35455/huya/29701539
+#EXTINF:-1 group-title="电竞直播",火影忍者
+http://81.70.10.196:35455/huya/25567648
+#EXTINF:-1 group-title="电竞直播",英雄联盟
+http://81.70.10.196:35455/huya/24318577
+#EXTINF:-1 group-title="电竞直播",我的世界
+http://81.70.10.196:35455/huya/667788
+#EXTINF:-1 group-title="电竞直播",拳皇
+http://81.70.10.196:35455/huya/17167271
+#EXTINF:-1 group-title="电竞直播",小霸王
+http://81.70.10.196:35455/huya/24723731
+#EXTINF:-1 group-title="小品轮播",赵本山专场
+http://free.frp.vip:10147/douyu/9817716
 #EXTINF:-1 group-title="小品轮播",拍电影
 https://txmov2.a.kwimgs.com/bs3/video-hls/5214042559557439441_hlsb.m3u8
 #EXTINF:-1 group-title="小品轮播",警察与督察
