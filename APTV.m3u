@@ -92,7 +92,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8#http://hwot
 #EXTINF:-1 group-title="卫视频道",文物宝库
 http://39.134.61.206/TVOD/88888888/224/3221227302/index.m3u8
 #EXTINF:-1 group-title="卫视频道",卡酷动画
-http://1.31.14.70:54321/hls/38/index.m3u8
+http://k.061899.xyz/k.php?id=bjkk
+http://61.184.46.85:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 #EXTINF:-1 group-title="卫视频道",金鹰纪实
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
 #EXTINF:-1 group-title="卫视频道",金鹰卡通
@@ -131,22 +132,18 @@ http://39.134.61.206/TVOD/88888888/224/3221226593/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221227337/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",铁岭新闻综合
 https://live-play-tlrb.newaircloud.com/tlrb/3dc36395-a7a3-4855-9bd6-8d223cf9ac30.m3u8
+#EXTINF:-1 group-title="辽宁频道",朝阳新闻综合
+http://120.76.248.139/live/bfgd/4200000282.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰中文
 http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87
-http://221.229.212.86:14898
-http://221.229.212.86:14898/udp/239.255.36.1:8231
 http://iptv.4666888.xyz/iptv2A.php?id=27
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkgBhqPU05spvygdOQVMR-49HfUHqoz3BWysXpY3IcoxaskiJ6HCxNUFEGBHN7J9cHwJfR5qJYrfvRgFxEFVGK3M4e6U8zBBcXQ62XaSa7kUQZiYq5vbmVseM-xEImPe5pGROKnFK232_zwhQVcDCWqJ8GlcYI2uYcWREAj3tlSyt6pugIwt_wjsXByc9jMtMyw.m3u8?u=1756878715
 http://r.jdshipin.com/cCCzW
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
-http://221.229.212.86:14896
-http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="港台频道",凤凰香港
-http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
-http://221.229.212.86:14897
 http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715
 http://r.jdshipin.com/yDoTN
@@ -189,8 +186,6 @@ http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
 #EXTINF:-1 group-title="港台频道",TVBS新聞
 http://rihou.cc:555/tv/[FY]tvbS%E6%96%B0%E9%97%BB
 http://iptv.4666888.xyz/iptv2A.php?id=43
-#EXTINF:-1 group-title="港台频道",TVBS歡樂台
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",非凡新闻
 http://iptv.4666888.xyz/iptv2A.php?id=44
 #EXTINF:-1 group-title="港台频道",民视
@@ -209,12 +204,10 @@ http://cdn6.163189.xyz/163189/amzy
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 group-title="港台频道",TVBS精采
 http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 group-title="港台频道",TVBS歡樂台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",翡翠台
 http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A1%E7%BF%A0
-#EXTINF:-1 group-title="港台频道",翡翠台4K
-http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A14K
-#EXTINF:-1 group-title="港台频道",龙华电影
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",龙华经典
 https://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 group-title="港台频道",龙华偶像
@@ -226,19 +219,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=42
 #EXTINF:-1 group-title="港台频道",靖天电影
 http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1 group-title="港台频道",邵氏武侠
-http://iptv.4666888.xyz/iptv2A.php?id=40
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 group-title="港台频道",邵氏电影
-http://iptv.4666888.xyz/iptv2A.php?id=39
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 group-title="港台频道",邵氏动作
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="港台频道",邵氏喜剧
-http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-http://rihou.cc:555/tv/[FY]%E9%82%B5%E6%B0%8F%E5%96%9C%E5%89%A7
 #EXTINF:-1 group-title="港台频道",東森电影
-http://iptv.4666888.xyz/iptv2A.php?id=48
-http://rihou.cc:555/tv/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LykwxMoUHpMM_iP4852Z3fkyk8zLr_cHdtRNfGHcdy6CBHw-Gsla_fUeSZd5w4Wac0uJflUo3jPx-syZub8WoZXN8RiuExRGYFHshahLkcavYsTA0xVX1vv5-7vKJhs-n7zwpfIB1QcisXHnKxS0kd5Hze8xeJra-LdG_RCTOfdFcvx03TGauO_eJLMAVKIyz9Q.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",纬来电影
 https://smt.1678520.xyz/163189/602e9465658d4f8c
 https://php.jdshipin.com:2096/smt.php?id=videolandmovie
@@ -246,7 +233,6 @@ https://php.jdshipin.com:2096/smt.php?id=videolandmovie
 http://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1 group-title="港台频道",龍華电影
 http://iptv.4666888.xyz/iptv2A.php?id=45
-https://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 group-title="体育频道",至臻世界
 http://39.134.61.206/TVOD/88888888/224/3221227053/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="红牛运动" tvg-logo="https://epg.v1.mk/logo/红牛运动.png" group-title="体育频道",红牛运动
