@@ -128,6 +128,10 @@ http://39.134.61.206/TVOD/88888888/224/3221226508/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221226512/index.m3u8
 #EXTINF:-1 tvg-id="6001" tvg-name="沈阳新闻" tvg-logo="https://epg.v1.mk/logo/沈阳新闻.png" group-title="辽宁频道",沈阳新闻
 http://39.134.61.206/TVOD/88888888/224/3221226593/index.m3u8
+#EXTINF:-1 group-title="辽宁频道",锦州新闻综合
+https://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
+#EXTINF:-1 group-title="辽宁频道",锦州教育频道
+https://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",盘锦都市
 http://39.134.61.206/TVOD/88888888/224/3221227337/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",铁岭新闻综合
@@ -244,15 +248,17 @@ http://39.134.61.206/TVOD/88888888/224/3221227092/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="辽宁体育" tvg-logo="https://epg.v1.mk/logo/辽宁体育.png" group-title="体育频道",辽宁体育
 http://39.134.61.206/TVOD/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="广东体育体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="体育频道",广东体育
-http://221.229.212.86:14975
-http://171.38.107.33:8282/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://go.bkpcp.top/mg/gdty
+http://rihou.cc:555/tv/[At|]广东体育
+http://rihou.cc:555/tv/[Cx]广东体育
 #EXTINF:-1 group-title="体育频道",吉林篮球
 http://36.49.50.173:8800/rtp/239.37.0.212:5540
 http://iptv.yzzdxc.cn:16666/rtp/239.37.0.216:5540
 #EXTINF:-1 tvg-id="6002" tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/茶频道.png" group-title="体育频道",茶频道
 http://39.134.61.206/TVOD/88888888/224/3221227089/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="四海钓鱼" tvg-logo="https://epg.v1.mk/logo/四海钓鱼.png" group-title="体育频道",四海钓鱼
-http://home.yulei.online:9999/rtp/226.0.2.123:8896
+http://wfenf.x3322.net:7788/637444975
+http://119.29.13.205:1234/637444975
 #EXTINF:-1 tvg-id="6002" tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/快乐垂钓.png" group-title="体育频道",快乐垂钓
 http://39.134.61.206/TVOD/88888888/224/3221227156/index.m3u8
 #EXTINF:-1 group-title="体育频道",睛彩篮球
