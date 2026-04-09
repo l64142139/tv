@@ -237,8 +237,6 @@ https://php.jdshipin.com:2096/smt.php?id=videolandmovie
 http://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1 group-title="港台频道",龍華电影
 http://iptv.4666888.xyz/iptv2A.php?id=45
-#EXTINF:-1 group-title="体育频道",至臻世界
-http://39.134.61.206/TVOD/88888888/224/3221227053/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="红牛运动" tvg-logo="https://epg.v1.mk/logo/红牛运动.png" group-title="体育频道",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="体育频道",CCTV5
