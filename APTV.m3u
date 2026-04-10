@@ -257,8 +257,6 @@ http://rihou.cc:555/tv/[Cx]广东体育
 #EXTINF:-1 group-title="体育频道",吉林篮球
 http://36.49.50.173:8800/rtp/239.37.0.212:5540
 http://iptv.yzzdxc.cn:16666/rtp/239.37.0.216:5540
-#EXTINF:-1 tvg-id="6002" tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/茶频道.png" group-title="体育频道",茶频道
-http://39.134.61.206/TVOD/88888888/224/3221227089/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="四海钓鱼" tvg-logo="https://epg.v1.mk/logo/四海钓鱼.png" group-title="体育频道",四海钓鱼
 http://wfenf.x3322.net:7788/637444975
 http://119.29.13.205:1234/637444975
