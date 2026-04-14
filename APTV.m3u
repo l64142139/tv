@@ -88,52 +88,49 @@ http://39.134.61.206/TVOD/88888888/224/3221227239/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="卫视频道",广东卫视
 http://39.134.61.206/TVOD/88888888/224/3221226436/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京纪实科教
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226730/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226942/index.m3u8
 #EXTINF:-1 group-title="卫视频道",文物宝库
 http://39.134.61.206/TVOD/88888888/224/3221227302/index.m3u8
-#EXTINF:-1 group-title="卫视频道",卡酷动画
-http://k.061899.xyz/k.php?id=bjkk
-http://61.184.46.85:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 #EXTINF:-1 group-title="卫视频道",金鹰纪实
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226714/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227291/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 group-title="卫视频道",金鹰卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226543/index.m3u8
 #EXTINF:-1 group-title="卫视频道",新动漫
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226501/index.m3u8
 #EXTINF:-1 group-title="卫视频道",动漫秀场
 http://lihetl.com:9527/rtp/232.0.0.140:9304
 #EXTINF:-1 group-title="卫视频道",影迷电影
-http://39.134.61.206/TVOD/88888888/224/3221227162/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221227303/index.m3u8
 #EXTINF:-1 group-title="卫视频道",家庭影院
-http://39.134.61.206/TVOD/88888888/224/3221227164/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221227296/index.m3u8
 #EXTINF:-1 group-title="卫视频道",动作电影
 http://39.134.61.206/TVOD/88888888/224/3221227298/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="辽宁频道",辽宁卫视
 http://39.134.61.206/TVOD/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="6006" tvg-name="辽宁北方" tvg-logo="https://epg.v1.mk/logo/辽宁北方.png" group-title="辽宁频道",辽宁北方
-http://39.134.61.206/TVOD/88888888/224/3221226515/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226865/index.m3u8
 #EXTINF:-1 tvg-id="6001" tvg-name="辽宁都市" tvg-logo="https://epg.v1.mk/logo/辽宁都市.png" group-title="辽宁频道",辽宁都市
 http://39.134.61.206/TVOD/88888888/224/3221226524/index.m3u8
 #EXTINF:-1 tvg-id="6005" tvg-name="辽宁公共" tvg-logo="https://epg.v1.mk/logo/辽宁公共.png" group-title="辽宁频道",辽宁公共
-http://39.134.61.206/TVOD/88888888/224/3221226528/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/辽宁教育青少.png" group-title="辽宁频道",辽宁教育青少
-http://39.134.61.206/TVOD/88888888/224/3221226473/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226863/index.m3u8
 #EXTINF:-1 tvg-id="6008" tvg-name="辽宁经济" tvg-logo="https://epg.v1.mk/logo/辽宁经济.png" group-title="辽宁频道",辽宁经济
-http://39.134.61.206/TVOD/88888888/224/3221226504/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226869/index.m3u8
 #EXTINF:-1 tvg-id="6004" tvg-name="辽宁生活" tvg-logo="https://epg.v1.mk/logo/辽宁生活.png" group-title="辽宁频道",辽宁生活
-http://39.134.61.206/TVOD/88888888/224/3221226489/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226918/index.m3u8
 #EXTINF:-1 tvg-id="6007" tvg-name="辽宁体育" tvg-logo="https://epg.v1.mk/logo/辽宁体育.png" group-title="辽宁频道",辽宁体育
 http://39.134.61.206/TVOD/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="辽宁影视剧" tvg-logo="https://epg.v1.mk/logo/辽宁影视剧.png" group-title="辽宁频道",辽宁影视剧
 http://39.134.61.206/TVOD/88888888/224/3221226512/index.m3u8
 #EXTINF:-1 tvg-id="6001" tvg-name="沈阳新闻" tvg-logo="https://epg.v1.mk/logo/沈阳新闻.png" group-title="辽宁频道",沈阳新闻
-http://39.134.61.206/TVOD/88888888/224/3221226593/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221226924/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",锦州新闻综合
 https://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",锦州教育频道
 https://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",盘锦都市
-http://39.134.61.206/TVOD/88888888/224/3221227337/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221227178/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",铁岭新闻综合
 https://live-play-tlrb.newaircloud.com/tlrb/3dc36395-a7a3-4855-9bd6-8d223cf9ac30.m3u8
 #EXTINF:-1 group-title="辽宁频道",朝阳新闻综合
@@ -269,13 +266,12 @@ http://go.bkpcp.top/mg/gdty
 http://rihou.cc:555/tv/[At|]广东体育
 http://rihou.cc:555/tv/[Cx]广东体育
 #EXTINF:-1 group-title="体育频道",吉林篮球
-http://36.49.50.173:8800/rtp/239.37.0.212:5540
 http://iptv.yzzdxc.cn:16666/rtp/239.37.0.216:5540
 #EXTINF:-1 tvg-id="6002" tvg-name="四海钓鱼" tvg-logo="https://epg.v1.mk/logo/四海钓鱼.png" group-title="体育频道",四海钓鱼
 http://wfenf.x3322.net:7788/637444975
 http://119.29.13.205:1234/637444975
 #EXTINF:-1 tvg-id="6002" tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/快乐垂钓.png" group-title="体育频道",快乐垂钓
-http://39.134.61.206/TVOD/88888888/224/3221227156/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221227301/index.m3u8
 #EXTINF:-1 group-title="体育频道",睛彩篮球
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
 #EXTINF:-1 group-title="体育频道",睛彩青少
@@ -285,9 +281,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 #EXTINF:-1 group-title="体育频道",睛彩广场舞
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="体育频道",武术世界
-http://39.134.61.206/TVOD/88888888/224/3221227170/index.m3u8
-#EXTINF:-1 tvg-id="6002" tvg-name="梨园频道" tvg-logo="https://epg.v1.mk/logo/梨园频道.png" group-title="体育频道",梨园频道
-http://39.134.61.206/TVOD/88888888/224/3221227168/index.m3u8
+http://39.134.61.206/TVOD/88888888/224/3221227320/index.m3u8
 #EXTINF:-1 group-title="体育频道",WWE
 https://live.ottiptv.cc/huya/30021023
 #EXTINF:-1 group-title="体育频道",扇耳光大赛
