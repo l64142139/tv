@@ -145,6 +145,7 @@ http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUWdJdT-WvPAhPYAjqDDKUkn8SJteYZ9uqzUO6nYtuUh6F-PN7bfjcRGaPw6WlGqRJXDBhEndnIu4j9XCk2jMbsgXqcdc5EoIBXfD7zolJBsvKapI6zL3TY0miLmlXbN6s1HL9nbhZ_-YYylQavg8fyJuokqsa-c_dYoVldu95ImgqU0t9mxSaKem7IJRiBJmz9a_295GFeFQ89c_Ubo4Q9g.m3u8?u=1756878715
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="港台频道",中天新闻
+http://dbmlasvgas.sylu.net:8880/stream/bda19f37-b224-4047-b9bd-3dadc788853a/playlist.m3u8
 http://rihou.cc:555/tv/hktv/tb19tw0811tw
 http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
 http://119.91.7.169:2026/TW.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB%E5%8F%B0
@@ -163,9 +164,7 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://rihou.cc:555/tv/[mn]%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WNuD_XjMeRfmWF04O0RfD3fflKqSgrhOtkHsYB1YQTSvhscjGW3T8rf3CFzfYl4iI8DTTm-5OSvy80YjPqMN_cpyFGhLm-Ruyfmzu_7xrjqT-9GBgHwFLkyNFQzGJWbhmHXJUBlyty0e0vgYH48pATr-8pAVDOl4YVdbbu-ydMBUCi5cNttFMNmRtOWZSykmNQ.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",寰宇新聞
-http://wspull.aniu.tv/live/99905ea02e0eec24e82e65f3aa62a2c9.m3u8
-http://rihou.cc:555/tv/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUrjtaa4Sm6Zqst6X8-oz1Y-yX5WxfP9t3MAsEacmoHMAATkf95hBijDFAQIps_CljrY7cfUCax36RsGU9vHMakaqNys8flpfoZ32z0eID0KJ2STPZ2GH5xPG1alwz1Hp62UTKJuAYloprj_uyKumLdGq2pfUc7NXdljnUnLj3LSgPR9bjDEehNM6ZhUDcIxp6k6StsTsgfCFcB27k567Ffg.m3u8?u=1756878715
+http://dbmlasvgas.sylu.net:8880/stream/5a2fec0e-1f1e-45d9-8c43-cd5c2bc7b777/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",年代新闻
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaB2MBpZJIecyktt2dzKZQvzDmsGPRsuRU2uKtozBIbVuj3nQ76zeQNSfvlqaCO74L1hE9YA3539hcp4FLk3RsP67gciU6sMI9_Ho3bTvoNl5lAWH0RAIF53EiwGIB1btqj1CJWfr7pdC0PMT5nku57JdhxBU8vjD_Be8N6lFdkCGP61-QcU2SJ38Xv_HOGSnGTLVAVAzlWXdVwjiDGte9w.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",非凡新聞
@@ -227,8 +226,6 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://iptv.4666888.xyz/iptv2A.php?id=54
 http://46.38.157.60:53874/proxy/a7de9e9ba71250e9.m3u8
 https://pixman.passwdwork.cc.cd/proxy/a7de9e9ba71250e9.m3u8
-#EXTINF:-1 group-title="港台频道",风云电影
-http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 group-title="港台频道",靖天电影
 http://iptv.4666888.xyz/iptv2A.php?id=56
 #EXTINF:-1 group-title="港台频道",龙华电影
