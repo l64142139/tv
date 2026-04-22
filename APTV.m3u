@@ -154,8 +154,6 @@ http://rihou.cc:555/tv/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB
 rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 #EXTINF:-1 group-title="港台频道",中视新闻
 http://rihou.cc:555/tv/hktv/tb19tw0816tw
-http://rihou.cc:555/tv/[mn]%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB
-http://119.91.7.169:2026/TW.php?id=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WMoiY9eSvYzh6ZwnRGmkQCdsjPrEP66LQen6iWL-fzZsqBTXBHKSfZLUc3BwHZ8Q4_yA7qBHgB0punInWfeNbjrSmjvScFFu0zpuxNErW7EIII4-rSdU1ytKDClCBqmsDn2rc00nFckmk5plk1cMpGnBmnI_y3vRoROfc3NhwO-4ZeKxcw_ZE1BegueTZVshjQ.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",华视新闻
 http://rihou.cc:555/tv/[mn]%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB
@@ -257,9 +255,8 @@ http://39.134.61.206/TVOD/88888888/224/3221227092/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="辽宁体育" tvg-logo="https://epg.v1.mk/logo/辽宁体育.png" group-title="体育频道",辽宁体育
 http://39.134.61.206/TVOD/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="广东体育体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="体育频道",广东体育
-http://go.bkpcp.top/mg/gdty
-http://rihou.cc:555/tv/[At|]广东体育
-http://rihou.cc:555/tv/[Cx]广东体育
+http://cdn2.163189.xyz/163189/gdty
+http://tiandong.site:8188/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="体育频道",吉林篮球
 http://iptv.yzzdxc.cn:16666/rtp/239.37.0.216:5540
 http://36.49.54.222:8800/rtp/239.37.0.212:5540
@@ -278,10 +275,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
 #EXTINF:-1 tvg-id="6002" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="体育频道",武术世界
 http://39.134.61.206/TVOD/88888888/224/3221227320/index.m3u8
-#EXTINF:-1 group-title="体育频道",WWE
-https://live.ottiptv.cc/huya/30021023
-#EXTINF:-1 group-title="体育频道",扇耳光大赛
-https://live.ottiptv.cc/huya/30631765
 #EXTINF:-1 group-title="体育频道",咪咕体育1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
 #EXTINF:-1 group-title="体育频道",咪咕体育2
