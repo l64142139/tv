@@ -87,6 +87,12 @@ http://39.134.61.206/TVOD/88888888/224/3221226953/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221227239/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://39.134.61.206/TVOD/88888888/224/3221226436/index.m3u8
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227464/index.m3u8
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227533/index.m3u8
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227604/index.m3u8
 #EXTINF:-1 group-title="卫视频道",北京纪实科教
 http://39.134.61.206/TVOD/88888888/224/3221227314/index.m3u8
 #EXTINF:-1 group-title="卫视频道",文物宝库
@@ -202,6 +208,12 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyj9WnUXorByJnTJc-i4mhyFvTu1PnYj_mlPrdTK-IhXnJEWUhl7A-O6Yibl-9DI7LmoFvsy175Em0tTJL1QbF0G45ntypZWENIJFBNVRMWUdhTjTPFc02qdguAFwJMO04UndsXDXK_eCUi5Ft_68OWmsN6kuWq8igNtDIYNbLnv0RkVd-N7ekvxRYZ2-_PpyYw.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",翡翠台
 http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A1%E7%BF%A0
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+#EXTINF:-1 group-title="港台频道",NOW爆谷台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+#EXTINF:-1 group-title="港台频道",NOW星影台
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",東森电影
 http://rihou.cc:555/tv/hktv/gzmjhftw
 http://iptv.4666888.xyz/iptv2A.php?id=48
