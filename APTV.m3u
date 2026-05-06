@@ -149,16 +149,14 @@ http://183.62.8.58:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://36.49.53.61:8800/rtp/239.37.0.212:5540
 #EXTINF:-1 group-title="体育频道",四海钓鱼
 http://wfenf.x3322.net:7788/637444975
-http://119.29.13.205:1234/637444975
-https://porxy.opd.ccwu.cc/live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 #EXTINF:-1 group-title="体育频道",快乐垂钓
 http://39.134.61.206/TVOD/88888888/224/3221227301/index.m3u8
 #EXTINF:-1 group-title="体育频道",武术世界
 http://39.134.61.206/TVOD/88888888/224/3221227320/index.m3u8
 #EXTINF:-1 group-title="体育频道",WWE
-https://cdn-3.ttvb.eu.org//huya/30021023
+https://live.ottiptv.cc/huya/30021023
 #EXTINF:-1 group-title="体育频道",扇耳光大赛
-https://cdn-3.ttvb.eu.org//huya/30631765
+https://live.ottiptv.cc/huya/30631765
 #EXTINF:-1 group-title="体育频道",睛彩篮球
 http://39.134.61.206/TVOD/88888888/224/3221227349/index.m3u8
 #EXTINF:-1 group-title="体育频道",睛彩青少
@@ -341,31 +339,31 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 https://stream1.freetv.fun/5b5db4070d49b6949aad5a643411dbcf20868919c31ec99f9881cc1e19f2eaa0.m3u8
 #EXTINF:-1 group-title="电竞直播",JJ斗地主
-https://cdn-3.ttvb.eu.org//huya/30814433
+https://live.ottiptv.cc/huya/21103928
 #EXTINF:-1 group-title="电竞直播",欢乐斗地主
-https://cdn-3.ttvb.eu.org//huya/21103928
+https://live.ottiptv.cc/huya/21103928
 #EXTINF:-1 group-title="电竞直播",穿越火线
-https://cdn-3.ttvb.eu.org//huya/660101
+https://live.ottiptv.cc/huya/660101
 #EXTINF:-1 group-title="电竞直播",DOTA2
-https://cdn-3.ttvb.eu.org//huya/476318
+https://live.ottiptv.cc/huya/476318
 #EXTINF:-1 group-title="电竞直播",地下城与勇士
-https://cdn-3.ttvb.eu.org//huya/21103948
+https://live.ottiptv.cc/huya/21103948
 #EXTINF:-1 group-title="电竞直播",王者荣耀
-https://cdn-3.ttvb.eu.org//huya/660164
+https://live.ottiptv.cc/huya/660164
 #EXTINF:-1 group-title="电竞直播",和平精英
-https://cdn-3.ttvb.eu.org//huya/660135
+https://live.ottiptv.cc/huya/660135
 #EXTINF:-1 group-title="电竞直播",三角洲行动
 https://live.ottiptv.cc/huya/29701539
 #EXTINF:-1 group-title="电竞直播",火影忍者
-https://cdn-3.ttvb.eu.org//huya/25567648
+https://live.ottiptv.cc/huya/25567648
 #EXTINF:-1 group-title="电竞直播",英雄联盟
-https://cdn-3.ttvb.eu.org//huya/24318577
+https://live.ottiptv.cc/huya/24318577
 #EXTINF:-1 group-title="电竞直播",我的世界
-https://cdn-3.ttvb.eu.org//huya/667788
+https://live.ottiptv.cc/huya/667788
 #EXTINF:-1 group-title="电竞直播",拳皇
-https://cdn-3.ttvb.eu.org//huya/17167271
+https://live.ottiptv.cc/huya/17167271
 #EXTINF:-1 group-title="电竞直播",小霸王
-https://cdn-3.ttvb.eu.org//huya/24723731
+https://live.ottiptv.cc/huya/24723731
 #EXTINF:-1 group-title="小品轮播",拍电影
 https://txmov2.a.kwimgs.com/bs3/video-hls/5214042559557439441_hlsb.m3u8
 #EXTINF:-1 group-title="小品轮播",警察与督察
