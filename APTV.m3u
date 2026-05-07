@@ -144,7 +144,8 @@ http://39.134.61.206/TVOD/88888888/224/3221227324/index.m3u8
 #EXTINF:-1 group-title="体育频道",辽宁体育
 http://39.134.61.206/TVOD/88888888/224/3221227330/index.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
-http://111.170.156.74:3344/广东地方/gdtv.php?id=47
+http://61.145.242.11:9088/hls/18/index.m3u8
+http://67.220.71.199:2347/livehttpplay?channel_id=12028
 #EXTINF:-1 group-title="体育频道",吉林篮球
 http://36.49.53.61:8800/rtp/239.37.0.212:5540
 #EXTINF:-1 group-title="体育频道",四海钓鱼
