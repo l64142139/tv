@@ -146,18 +146,12 @@ http://39.134.61.206/TVOD/88888888/224/3221227330/index.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
 http://61.145.242.11:9088/hls/18/index.m3u8
 http://67.220.71.199:2347/livehttpplay?channel_id=12028
-#EXTINF:-1 group-title="体育频道",吉林篮球
-http://36.49.53.61:8800/rtp/239.37.0.212:5540
 #EXTINF:-1 group-title="体育频道",四海钓鱼
 http://wfenf.x3322.net:7788/637444975
 #EXTINF:-1 group-title="体育频道",快乐垂钓
 http://39.134.61.206/TVOD/88888888/224/3221227301/index.m3u8
 #EXTINF:-1 group-title="体育频道",武术世界
 http://39.134.61.206/TVOD/88888888/224/3221227320/index.m3u8
-#EXTINF:-1 group-title="体育频道",WWE
-https://live.ottiptv.cc/huya/30021023
-#EXTINF:-1 group-title="体育频道",扇耳光大赛
-https://live.ottiptv.cc/huya/30631765
 #EXTINF:-1 group-title="体育频道",睛彩篮球
 http://39.134.61.206/TVOD/88888888/224/3221227349/index.m3u8
 #EXTINF:-1 group-title="体育频道",睛彩青少
@@ -247,9 +241,9 @@ http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84O
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="港台频道",中天新闻
 http://rihou.cc:555/tv/中天新闻
+http://rihou.cc:555/tv/hktv/tb19tw0811twjk
 #EXTINF:-1 group-title="港台频道",中视新闻
-http://rihou.cc:555/tv/hktv/tb19tw0816tw
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WMoiY9eSvYzh6ZwnRGmkQCdsjPrEP66LQen6iWL-fzZsqBTXBHKSfZLUc3BwHZ8Q4_yA7qBHgB0punInWfeNbjrSmjvScFFu0zpuxNErW7EIII4-rSdU1ytKDClCBqmsDn2rc00nFckmk5plk1cMpGnBmnI_y3vRoROfc3NhwO-4ZeKxcw_ZE1BegueTZVshjQ.m3u8?u=1756878715
+http://rihou.cc:555/tv/[Hk]中视新闻
 #EXTINF:-1 group-title="港台频道",华视新闻
 http://rihou.cc:555/tv/[mn]%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUyH_fs26-c7nBUTry9_G9WKqScQqAKpRWYNyer9iIQlXfEfGOtgn4R3j-fMkdCF3Nrz8a8eWtVPoBarT83pADy0q9_LSk_YemjPXgslCED7SsSF1-vePW6HBPwNMbJZjVrVMIe8TvrqhAfpliA3zm12VWQgXhJALgwvtO8zKq0OSijpJ5tnyd4PioVRKZPphfrGIxVr2eJ06-AOUnncmLLA.m3u8?u=1756878715
@@ -304,11 +298,9 @@ http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A1%E7%BF%A0
 #EXTINF:-1 group-title="港台频道",翡翠台
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
 #EXTINF:-1 group-title="港台频道",NOW爆谷台
-https://test.946985.filegear-sg.me/proxy/9be13a85b8220ace
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUpn7Lrhdbt8W042CxwTlNwHQBHxAorPl6WG505axByLsqm_6uwwf1TFr09ekS-WoJxI9O52n-XjCSzld0iXNILyGsupIIoJAwHj6sU5fRMWkT8lXOjk8dzTjEAFkg7T7lkFrggmhPUEnMV8uzxJHoqLE4Z9kmjzi7bsfb2fGQXfcylFnj-ccOYGV6y8bKDUuf22WZ575UidyzCiYfIdoV-yo.m3u8?u=1756878715
+http://154.222.16.140:9999/2307596
 #EXTINF:-1 group-title="港台频道",NOW星影台
-https://test.946985.filegear-sg.me/proxy/3e3cc9dee7cb56fe
-http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUaFBmz2P45zHSyAqfwWcUprjpez8QnvR52--XWU48weWe0I3SmTbrbzekJV6nKQXuFhSMZJXCKkqcgT8VSsSpkJEqCHtVmseSJOblTmm0CQc8dK14Jv-HtuAHiSRX2j-ui-0TyrXUGAonYnIkoTpg8KN7QJCBU5Yk3Ra04uVhpWYxxlwSEhOTR36AQJfcgETeH5KWYFyvA1Qn7_NKyiNzUFFYGlDBCddNHT6P99LoHiU.m3u8?u=1756878715
+http://154.222.16.140:9999/2732109
 #EXTINF:-1 group-title="港台频道",東森电影
 http://rihou.cc:555/tv/hktv/gzmjhftw
 http://iptv.4666888.xyz/iptv2A.php?id=48
