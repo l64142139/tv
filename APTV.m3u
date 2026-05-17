@@ -146,6 +146,8 @@ http://39.134.61.206/TVOD/88888888/224/3221227330/index.m3u8
 #EXTINF:-1 group-title="体育频道",广东体育
 http://61.145.242.11:9088/hls/18/index.m3u8
 http://67.220.71.199:2347/livehttpplay?channel_id=12028
+#EXTINF:-1 group-title="体育频道",五星体育
+http://192.151.150.154/live/wxtyhd.m3u8
 #EXTINF:-1 group-title="体育频道",四海钓鱼
 http://wfenf.x3322.net:7788/637444975
 #EXTINF:-1 group-title="体育频道",快乐垂钓
