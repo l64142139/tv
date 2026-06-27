@@ -236,7 +236,7 @@ http://115.44.140.170:18180/TV00000000000000000009@HHZT
 #EXTINF:-1 group-title="港台频道",凤凰香港
 http://115.44.140.170:18180/TV00000000000000000024@HHZT
 #EXTINF:-1 group-title="港台频道",中天新闻
-http://rihou.cc:555/tv/中天新闻
+https://my5353.com/ztxw#rtmp://ai.unispc.com/live/nb-py-ztxw
 #EXTINF:-1 group-title="港台频道",中视新闻
 http://rihou.cc:555/tv/[Hk]中视新闻
 #EXTINF:-1 group-title="港台频道",华视新闻
