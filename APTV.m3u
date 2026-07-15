@@ -135,6 +135,62 @@ http://39.134.61.206/TVOD/88888888/224/3221227337/index.m3u8
 https://srs.beijihainews.com.cn/video/jinzhou1/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",锦州教育频道
 https://srs.beijihainews.com.cn/video/jinzhou2/index.m3u8
+#EXTINF:-1 group-title="辽宁频道",连山区综合
+http://120.76.248.139/live/bfgd/4200000491.m3u8
+#EXTINF:-1 group-title="辽宁频道",龙港区综合
+http://120.76.248.139/live/bfgd/4200000490.m3u8
+#EXTINF:-1 group-title="辽宁频道",抚顺综合
+http://120.76.248.139/live/bfgd/4200000275.m3u8
+#EXTINF:-1 group-title="辽宁频道",北方导视
+http://120.76.248.139/live/bfgd/4200000187.m3u8
+#EXTINF:-1 group-title="辽宁频道",鞍山新闻综合
+http://120.76.248.139/live/bfgd/4200000274.m3u8
+#EXTINF:-1 group-title="辽宁频道",大连新闻综合
+http://120.76.248.139/live/bfgd/4200000273.m3u8
+#EXTINF:-1 group-title="辽宁频道",丹东新闻综合
+http://120.76.248.139/live/bfgd/4200000276.m3u8
+#EXTINF:-1 group-title="辽宁频道",阜新综合
+http://120.76.248.139/live/bfgd/4200000279.m3u8
+#EXTINF:-1 group-title="辽宁频道",辽阳新闻综合
+http://120.76.248.139/live/bfgd/4200000280.m3u8
+#EXTINF:-1 group-title="辽宁频道",营口新闻综合
+http://120.76.248.139/live/bfgd/4200000278.m3u8
+#EXTINF:-1 group-title="辽宁频道",盘锦新闻综合
+http://120.76.248.139/live/bfgd/4200000283.m3u8
+#EXTINF:-1 group-title="辽宁频道",铁岭新闻综合
+http://120.76.248.139/live/bfgd/4200000281.m3u8
+#EXTINF:-1 group-title="辽宁频道",朝阳新闻综合
+http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1 group-title="辽宁频道",本溪综合
+http://120.76.248.139/live/bfgd/4200000312.m3u8
+#EXTINF:-1 group-title="辽宁频道",葫芦岛新闻综合
+http://120.76.248.139/live/bfgd/4200000284.m3u8http://120.76.248.139/live/bfgd/4200000491.m3u8
+#EXTINF:-1 group-title="辽宁频道",龙港区综合
+http://120.76.248.139/live/bfgd/4200000490.m3u8
+#EXTINF:-1 group-title="辽宁频道",抚顺综合
+http://120.76.248.139/live/bfgd/4200000275.m3u8
+#EXTINF:-1 group-title="辽宁频道",北方导视
+http://120.76.248.139/live/bfgd/4200000187.m3u8
+#EXTINF:-1 group-title="辽宁频道",鞍山新闻综合
+http://120.76.248.139/live/bfgd/4200000274.m3u8
+#EXTINF:-1 group-title="辽宁频道",大连新闻综合
+http://120.76.248.139/live/bfgd/4200000273.m3u8
+#EXTINF:-1 group-title="辽宁频道",丹东新闻综合
+http://120.76.248.139/live/bfgd/4200000276.m3u8
+#EXTINF:-1 group-title="辽宁频道",阜新综合
+http://120.76.248.139/live/bfgd/4200000279.m3u8
+#EXTINF:-1 group-title="辽宁频道",辽阳新闻综合
+http://120.76.248.139/live/bfgd/4200000280.m3u8
+#EXTINF:-1 group-title="辽宁频道",营口新闻综合
+http://120.76.248.139/live/bfgd/4200000278.m3u8
+#EXTINF:-1 group-title="辽宁频道",铁岭新闻综合
+http://120.76.248.139/live/bfgd/4200000281.m3u8
+#EXTINF:-1 group-title="辽宁频道",朝阳新闻综合
+http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1 group-title="辽宁频道",本溪综合
+http://120.76.248.139/live/bfgd/4200000312.m3u8
+#EXTINF:-1 group-title="辽宁频道",葫芦岛新闻综合
+http://120.76.248.139/live/bfgd/4200000284.m3u8
 #EXTINF:-1 group-title="体育频道",CCTV5
 http://39.134.61.206/TVOD/88888888/224/3221227125/index.m3u8
 #EXTINF:-1 group-title="体育频道",CCTV5+
