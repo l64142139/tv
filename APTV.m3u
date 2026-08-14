@@ -39,10 +39,6 @@ http://39.134.61.206/TVOD/88888888/224/3221227135/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221226773/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV17
 http://39.134.61.206/TVOD/88888888/224/3221226567/index.m3u8
-#EXTINF:-1 group-title="卫视频道",凤凰中文
-https://cdn6.cc.cd/163189/fhzw
-#EXTINF:-1 group-title="卫视频道",中天新闻
-http://rihou.cc:555/tv/[SZ]中天新闻
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://39.134.61.206/TVOD/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
@@ -147,8 +143,6 @@ http://39.134.61.206/TVOD/88888888/224/3221227092/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221227324/index.m3u8
 #EXTINF:-1 group-title="体育频道",辽宁体育
 http://39.134.61.206/TVOD/88888888/224/3221227330/index.m3u8
-#EXTINF:-1 group-title="体育频道",广东体育
-http://116.77.239.26:44300/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="体育频道",快乐垂钓
 http://39.134.61.206/TVOD/88888888/224/3221227301/index.m3u8
 #EXTINF:-1 group-title="体育频道",武术世界
