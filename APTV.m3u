@@ -222,10 +222,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227445/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 #EXTINF:-1 group-title="体育频道",咪咕体育32
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
-#EXTINF:-1 group-title="小品轮播",拍电影
-https://txmov2.a.kwimgs.com/bs3/video-hls/5214042559557439441_hlsb.m3u8
-#EXTINF:-1 group-title="小品轮播",警察与督察
-https://txmov2.a.kwimgs.com/bs3/video-hls/5233464357625245633_hlsb.m3u8
 #EXTINF:-1 group-title="小品轮播",警察与小偷
 https://txmov2.a.kwimgs.com/bs3/video-hls/5192368981698476185_hlsb.m3u8
 #EXTINF:-1 group-title="小品轮播",主角与配角
