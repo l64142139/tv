@@ -107,10 +107,6 @@ http://39.134.61.206/TVOD/88888888/224/3221227303/index.m3u8
 http://39.134.61.206/TVOD/88888888/224/3221227296/index.m3u8
 #EXTINF:-1 group-title="卫视频道",动作电影
 http://39.134.61.206/TVOD/88888888/224/3221227298/index.m3u8
-#EXTINF:-1 group-title="卫视频道",中天新闻
-https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道",中天新闻
-http://111.0.115.129:8081/live/000ztxw.m3u8
 #EXTINF:-1 group-title="辽宁频道",辽宁卫视
 http://39.134.61.206/TVOD/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 group-title="辽宁频道",辽宁北方
